@@ -1,0 +1,26 @@
+{
+    "teams": [
+        {"name": "Argentina", "code": "ARG"},
+        {"name": "Brazil", "code": "BRA"},
+        {"name": "Germany", "code": "GER"},
+        {"name": "France", "code": "FRA"},
+        {"name": "Spain", "code": "ESP"},
+        {"name": "Italy", "code": "ITA"},
+        {"name": "Netherlands", "code": "NED"},
+        {"name": "Portugal", "code": "POR"},
+        {"name": "England", "code": "ENG"},
+        {"name": "Belgium", "code": "BEL"},
+        {"name": "Croatia", "code": "CRO"},
+        {"name": "Uruguay", "code": "URU"},
+        {"name": "Denmark", "code": "DEN"},
+        {"name": "Switzerland", "code": "SUI"},
+        {"name": "Colombia", "code": "COL"},
+        {"name": "Mexico", "code": "MEX"},
+        {"name": "United States", "code": "USA"},
+        {"name": "Chile", "code": "CHI"},
+        {"name": "Sweden", "code": "SWE"},
+        {"name": "Poland", "code": "POL"},
+        {"name": "Serbia", "code": "SRB"},
+        {"name": "Russia", "code": "RUS"}
+    ]
+}
